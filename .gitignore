@@ -4,3 +4,8 @@
 8ch/convnet_from_scratch.x/
 8ch/feature_extraction.keras
 8ch/convnet_from_scratch_with_augmentation.keras
+9ch/annotations/
+9ch/images/
+9ch/annotations.tar.gz
+9ch/images.tar.gz
+9ch/cats_vs_dogs_small/
