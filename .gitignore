@@ -9,3 +9,15 @@
 9ch/annotations.tar.gz
 9ch/images.tar.gz
 9ch/cats_vs_dogs_small/
+10ch/jena_climate_2009_2016.csv.zip
+10ch/jena_climate_2009_2016
+11ch/aclImdb_temp/
+11ch/aclImdb/
+11ch/aclImdb_v1.tar.gz
+11ch/glove.6B.zip
+11ch/glove.6B/
+11ch/glove_embeddings_sequence_model.keras
+11ch/embeddings_bidir_gru_with_masking.keras
+11ch/glove_embeddings_sequence_model.keras
+11ch/embeddings_bidir_gru.keras
+11ch/one_hot_bidir_lstm.keras
