@@ -21,3 +21,5 @@
 11ch/glove_embeddings_sequence_model.keras
 11ch/embeddings_bidir_gru.keras
 11ch/one_hot_bidir_lstm.keras
+11ch/full_transformer_encoder.keras
+11ch/transformer_encoder.keras
